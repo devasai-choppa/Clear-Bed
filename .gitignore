@@ -39,3 +39,6 @@ dbt/.user.yml
 .vscode/
 *.log
 .ipynb_checkpoints/
+.cursor/
+.cursorrules
+.cursorignore
